@@ -1,0 +1,75 @@
+    [
+        {
+        "id": 1,
+        "title": "Nike v1",
+        "description": "This is the description for Card 1",
+        "imageUrl": "/images/card1.jpg"
+        },
+        {
+        "id": 2,
+        "title": "Nike v2",
+        "description": "This is the description for Card 2",
+        "imageUrl": "/images/card2.jpg"
+        },
+        {
+        "id": 3,
+        "title": "Nike v3",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 4,
+        "title": "Nike v4",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 5,
+        "title": "Nike v5",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 6,
+        "title": "Nike v6",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 7,
+        "title": "Nike v7",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 8,
+        "title": "Nike v8",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 9,
+        "title": "Nike v9",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 10,
+        "title": "Nike v10",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 11,
+        "title": "Nike v11",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        },
+        {
+        "id": 12,
+        "title": "Nike v12",
+        "description": "This is the description for Card 3",
+        "imageUrl": "/images/card3.jpg"
+        }
+    ]
+    
